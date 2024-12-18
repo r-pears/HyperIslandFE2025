@@ -1,0 +1,125 @@
+/* FONT IMPORT */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+.oswald {
+  font-family: "Oswald", serif;
+}
+
+body {
+    font-family: "Oswald", serif;
+    background-color: black;
+    color: grey;
+}
+
+h1 {
+    font-size: 4rem;
+    color: orange;
+}
+
+h2 {
+    font-size: 2rem;
+    color: orange;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+}
+
+.header h1 {
+    margin-bottom: 1rem;
+}
+
+.navbar {
+    padding-top: 0.1rem;
+    padding-bottom: 0.1rem;
+    
+}
+
+.navbar_list {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-items: center;
+
+}
+
+.navbar_list li {
+    margin: 2rem;
+    padding: 0.5rem;
+    color: grey;
+}
+
+.navbar_list li a {
+    color: grey;
+}
+
+#section1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+}
+
+.section1_long_p {
+    margin-left: 5rem;
+    margin-right: 5rem;
+    
+}
+
+
+
+#section2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+}
+
+.section2_long_p {
+    margin-left: 5rem;
+    margin-right: 5rem;
+
+}
+
+#section3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+}
+
+.section3_long_p {
+    margin-left: 5rem;
+    margin-right: 5rem;
+
+}
+
+#section4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+}
+
+.section4_long_p {
+    margin-left: 5rem;
+    margin-right: 5rem;
+
+}
+
+.form_box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;    
+}
+
+.form_box input {
+    padding: 0.2rem;
+}
+
+
+
